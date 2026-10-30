@@ -1,0 +1,35 @@
+{
+ "bodyLen": 306317,
+ "opacityZero": 32,
+ "appearIds": 5,
+ "iframes": [
+  {
+   "src": "https://gradientshader-nine.vercel.app/",
+   "w": 1200,
+   "h": 900,
+   "y": 0
+  },
+  {
+   "src": "https://framer.com/edit?framerSiteId=601a65a5f590c3bb9e12953e3fc84f455933f46203ca94e8b91c49c66b610628&source=midu.design&features=%7B%22editorBarDisableFrameAncestorsSecurity%22%3Afalse%2C%22onPageLocalizationSupport%22%3Atrue%2C%22onPageMoveTool%22%3Atrue%2C%22onPageRichTextBlockSelection%22%3Atrue%7D&loadStart=1793343442901",
+   "w": 0,
+   "h": 0,
+   "y": 0
+  }
+ ],
+ "lottie": [
+  {
+   "tag": "DOTLOTTIE-PLAYER",
+   "src": "https://lottie.host/94c91c9d-4895-48e4-8c83-3fc34cfda8f7/nwdQJg5kon.lottie",
+   "w": 14,
+   "h": 14,
+   "y": 505
+  },
+  {
+   "tag": "DOTLOTTIE-PLAYER",
+   "src": "https://lottie.host/94c91c9d-4895-48e4-8c83-3fc34cfda8f7/nwdQJg5kon.lottie",
+   "w": 14,
+   "h": 14,
+   "y": 10372
+  }
+ ]
+}

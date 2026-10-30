@@ -1,0 +1,19 @@
+# dependencies
+node_modules/
+package-lock.json.bak
+
+# build output (reproducible: npm run build)
+ui/dist/
+
+# legacy 1:1 static clone, superseded by the React build
+ui/index.html
+
+# bulky measurement intermediates
+_recon/*-raw.json
+_recon/domdiff-*.json
+_recon/*.html
+_recon/diff-*.png
+_recon/home-full.png
+_recon/sec-*.png
+_recon/*.log
+.DS_Store
